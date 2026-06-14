@@ -2,7 +2,7 @@
 
 A Python tool that generates prime numbers and visualizes how their values grow over count — revealing the natural sparsity of primes as numbers get larger.
 
-![Graph showing prime number distribution](screenshot.png)
+![Graph showing prime number distribution](figure.png)
 
 ## What it does
 
